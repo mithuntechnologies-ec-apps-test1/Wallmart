@@ -1,2 +1,4 @@
 Hi 
-Go:"od Morning
+Good Morning
+Good Evening
+Good Night
