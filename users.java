@@ -1,3 +1,1 @@
- Hello I am developing in Dev Branch
-
- Hello Iam in master branch
+Hello Iam in master branch
